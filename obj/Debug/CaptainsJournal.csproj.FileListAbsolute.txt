@@ -1,0 +1,6 @@
+C:\Users\FT\Documents\Visual Studio 2012\Projects\TestSolutions\CaptainsJournal\CaptainsJournal\bin\Debug\CaptainsJournal.exe.config
+C:\Users\FT\Documents\Visual Studio 2012\Projects\TestSolutions\CaptainsJournal\CaptainsJournal\bin\Debug\CaptainsJournal.exe
+C:\Users\FT\Documents\Visual Studio 2012\Projects\TestSolutions\CaptainsJournal\CaptainsJournal\bin\Debug\CaptainsJournal.pdb
+C:\Users\FT\Documents\Visual Studio 2012\Projects\TestSolutions\CaptainsJournal\CaptainsJournal\obj\Debug\CaptainsJournal.csprojResolveAssemblyReference.cache
+C:\Users\FT\Documents\Visual Studio 2012\Projects\TestSolutions\CaptainsJournal\CaptainsJournal\obj\Debug\CaptainsJournal.exe
+C:\Users\FT\Documents\Visual Studio 2012\Projects\TestSolutions\CaptainsJournal\CaptainsJournal\obj\Debug\CaptainsJournal.pdb
